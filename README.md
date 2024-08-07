@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Olá, meu nome é <strong>Gabriel</strong>. Atualmente, sou estagiário de TI na empresa Bigmais Supermercados Ltda. Estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Pitágoras. Estou sempre buscando aprender mais para me aprimorar no desenvolvimento de sistemas.
+Olá, meu nome é <strong>Gabriel</strong>. Atualmente, sou Dev. Junior na empresa BRAIP. Estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Pitágoras. Estou sempre buscando aprender mais para me aprimorar no desenvolvimento de sistemas.
 </p>
 
 <p align="left">
