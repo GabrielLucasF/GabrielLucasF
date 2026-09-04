@@ -51,6 +51,13 @@ Padronizei o tratamento de falhas de terceiros em quatro integrações diferente
 
 ---
 
+### Formação
+
+**Análise e Desenvolvimento de Sistemas** (tecnólogo) · [Uninter](https://www.uninter.com), EAD
+Em andamento, com conclusão prevista para 2028.
+
+---
+
 ### Contato
 
 [LinkedIn](https://www.linkedin.com/in/gabriellucasf-dev/) · [Email](mailto:gabriel.fersants@gmail.com)
