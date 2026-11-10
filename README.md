@@ -1,36 +1,45 @@
 # Gabriel Lucas Ferreira dos Santos
 
-**Desenvolvedor backend · PHP, Laravel e MySQL**
+**Desenvolvedor Backend | PHP, Laravel e MySQL | Integrações, pagamentos e logística**
 
-Atuo na Braip desde julho de 2024, desenvolvendo e mantendo integrações de e-commerce e logística e fluxos de pagamentos, reembolsos e comissões. Minha experiência inclui APIs REST, webhooks, investigação de falhas, testes automatizados e revisão de código.
+Desenvolvo APIs e integrações que conectam plataformas de e-commerce, operações de logística e sistemas de pagamentos. Na Braip, atuo em fluxos de pedidos, estornos e conciliação, com foco em regras de negócio, tratamento de falhas e testes automatizados.
 
-Gosto de trabalhar nos pontos em que sistemas precisam concordar: traduzir dados de parceiros, tratar falhas de serviços externos e evitar processamento duplicado.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## Experiência que levo para os projetos
+## Entregas em números
 
-- **Integrações:** plataformas de e-commerce, ERP e transportadoras; comunicação por APIs e processamento de eventos.
-- **Confiabilidade:** verificações de regras de negócio, tratamento de erros e prevenção de inconsistências em fluxos financeiros.
-- **Performance:** diagnóstico com EXPLAIN e otimização de uma consulta MySQL que passou de mais de cinco minutos para aproximadamente 1,4 segundo nas medições documentadas. A medição corresponde à consulta, não à exportação completa.
-- **Qualidade:** testes de regras de negócio e regressão, manutenção de sistemas e participação em code reviews.
+![Consulta MySQL: mais de 5 minutos para cerca de 1,4 segundo](https://img.shields.io/badge/Consulta_MySQL-%3E5_min_%E2%86%92_%E2%89%881.4_s-087F5B?style=flat-square)
+![Três integrações de e-commerce construídas](https://img.shields.io/badge/Integra%C3%A7%C3%B5es_de_e--commerce-3-175CD3?style=flat-square)
 
-O código profissional está em repositórios privados. Os projetos abaixo são trabalhos pessoais e não reproduzem sistemas da empresa.
+- **Performance:** analisei o plano de execução e corrigi a ordem dos joins de uma consulta MySQL usada em um relatório de vendas. O tempo medido da consulta passou de mais de 5 minutos para cerca de 1,4 segundo.
+- **Integrações:** construí três integrações de e-commerce para receber pedidos externos no fluxo de logística, com validação e reprocessamento.
 
 ## Stack
 
-**Principal:** PHP · Laravel · MySQL · APIs REST · PHPUnit  
-**Integrações e ferramentas:** Webhooks · Docker · Git · RabbitMQ · Redis  
-**Complementar:** Go · Vue/Nuxt
+- **Backend e dados:** PHP, Laravel, MySQL, APIs REST, webhooks, OAuth2, RabbitMQ e Redis.
+- **Qualidade e entrega:** PHPUnit, Git, GitHub Actions, Docker e revisão de código.
+- **Complementar:** Go, Vue.js e Nuxt.
 
 ## Projetos públicos
 
-| Projeto | O que você encontra |
-| --- | --- |
-| [Task Manager API](https://github.com/GabrielLucasF/task-manager-api) | API de gerenciamento de tarefas em Laravel 11, com autenticação JWT. |
-| [Task Manager App](https://github.com/GabrielLucasF/task-manager-app) | Interface em Nuxt/Vue para o gerenciamento de tarefas. |
-| [Estudos](https://github.com/GabrielLucasF/Estudos) | Exercícios de programação, algoritmos e estudos complementares. |
+- [Task Manager API](https://github.com/GabrielLucasF/task-manager-api) · Projeto de estudo em Laravel 11 com autenticação JWT e operações de tarefas.
+- [Task Manager App](https://github.com/GabrielLucasF/task-manager-app) · Interface Nuxt 3/Vue que consome a API de tarefas, com Pinia para gerenciar estado.
+- [QCEN](https://github.com/GabrielLucasF/camisas-qcen) · Aplicação em Next.js e TypeScript para registrar pedidos de camisas, consolidar tamanhos e acompanhar pagamentos.
+- [Estudos](https://github.com/GabrielLucasF/Estudos) · Exemplos de Go, algoritmos e estruturas de dados.
+
+As entregas profissionais acima são de repositórios privados. Os links apontam para projetos públicos do meu portfólio.
+
+## English
+
+I am a backend developer focused on PHP, Laravel and MySQL. I work on REST APIs and integrations for payments, e-commerce and logistics. My public projects include a Laravel task API, its Nuxt frontend and an order management app built with Next.js.
 
 ## Contato
 
-Busco oportunidades de **backend PHP/Laravel**, remotas no Brasil ou presenciais em **Governador Valadares/MG**.
+Remoto no Brasil ou presencial em Governador Valadares, MG.
 
-[LinkedIn](https://www.linkedin.com/in/gabriellucasf-dev/) · [GitHub](https://github.com/GabrielLucasF)
+[LinkedIn](https://www.linkedin.com/in/gabriellucasf-dev/)
